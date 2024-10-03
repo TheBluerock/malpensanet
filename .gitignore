@@ -51,3 +51,6 @@ coverage/
 
 # TypeScript
 *.tsbuildinfo
+
+# Local Netlify folder
+.netlify
