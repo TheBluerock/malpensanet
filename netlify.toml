@@ -1,7 +1,7 @@
 
 [build]
-  command = "yarn workspace main build"
-  functions = "netlify/functions"
+  command = "yarn build"
+  functions = "functions"
   publish = "build"
 
  [[plugins]]
